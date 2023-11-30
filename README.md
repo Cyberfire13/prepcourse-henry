@@ -1,2 +1,1 @@
-# prepcourse-henry
-rep de prueba mod 2 de henry
+prueba de como crear un repositorio  y clonarl oa mi repositorio local
